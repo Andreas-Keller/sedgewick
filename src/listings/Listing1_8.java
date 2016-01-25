@@ -1,3 +1,5 @@
+/* Draw a box without points in it*/
+
 package listings;
 
 import edu.princeton.cs.algs4.*;
