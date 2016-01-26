@@ -7,7 +7,7 @@ import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 import listings.Counter;
 
-public class Exercises1_2_9 {
+public class Exercises_1_2_9 {
 
 	public static void main(String args[]) throws IOException {
 		
