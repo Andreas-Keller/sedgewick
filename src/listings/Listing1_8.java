@@ -17,7 +17,7 @@ public class Listing1_8 {
 		Interval2D box       = new Interval2D(xinterval, yinterval);
 		box.draw();
 	
-		Counter c = new Counter("hits");
+		Counter c = new Counter("hits form the bong");
 		for ( int t = 0; t < T; t++) {
 			double x = Math.random();
 			double y = Math.random();
